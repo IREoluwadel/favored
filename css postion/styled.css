@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    position: sticky;
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    top: 10px;
+}
